@@ -16,6 +16,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### To view a single form : `http://localhost:3000/form/:formId`
 #### To view the form responses : `http://localhost:3000/responses`
 
+##Example:
+#### To view a single form : `http://localhost:3000/form/1`
+#### To view the form responses : `http://localhost:3000/responses/1`
 
 
 
